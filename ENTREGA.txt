@@ -6,5 +6,5 @@ https://github.com/primodeckers/supplier-data-credibility-analysis
 Notebook:
 analise_credibilidade_fornecedores.ipynb
 
-PDF com os resultados:
+PDF só com os resultados (sem código):
 analise_credibilidade_fornecedores.pdf
