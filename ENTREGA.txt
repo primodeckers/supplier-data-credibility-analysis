@@ -1,0 +1,10 @@
+Entrega — Análise de credibilidade dos dados de fornecedores
+
+Repositório:
+https://github.com/primodeckers/supplier-data-credibility-analysis
+
+Notebook:
+analise_credibilidade_fornecedores.ipynb
+
+PDF com os resultados:
+analise_credibilidade_fornecedores.pdf
